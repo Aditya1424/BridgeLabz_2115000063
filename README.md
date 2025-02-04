@@ -114,3 +114,23 @@ Calling Non-Static Methods:
    - Java Object: Learned about creating and using objects in Java.
 3. Practice
    - Level 1 Problems: Practiced problems focusing on the application of OOP concepts, specifically classes and objects.
+
+## Task 12: DAY-12
+1. this keyword
+  - Refers to the current object.
+  - Resolves variable shadowing.
+  - Supports constructor chaining.
+
+2. static keyword
+  - Belongs to the class, not instances.
+  - Shared across all objects.
+  - Used for variables, methods, blocks, and nested classes.
+
+3. final keyword
+  - Prevents modification or inheritance.
+  -Used with variables (constants), methods (no overriding), and classes (no extension).
+
+4. instanceof keyword
+  - Checks object type at runtime.
+  - Prevents invalid type casting.
+  - Useful in polymorphism.
