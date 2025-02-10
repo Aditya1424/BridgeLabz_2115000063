@@ -134,3 +134,25 @@ Calling Non-Static Methods:
   - Checks object type at runtime.
   - Prevents invalid type casting.
   - Useful in polymorphism.
+
+## Task 13: DAY-13
+1. Object-Oriented Design Principles
+  - Discussed fundamental principles like SOLID, DRY, and KISS for designing maintainable and scalable applications.
+
+2. Assignment
+   - Submitted assignment on Object-Oriented Design Principles.
+  
+## Task 14: DAY-14
+1. Inheritance in Java
+   - Covered types of inheritance, method overriding, and super keyword usage.
+  
+2. Assignment
+  - Submitted assignment on Inheritance in Java.
+
+## Task 15: DAY-15
+1. Encapsulation, Abstraction, Polymorphism and Interface concepts in Java.
+
+2. Assignment
+ - Submitted assignment on Encapsulation, Abstraction, Polymorphism and Interface in Java.
+
+
