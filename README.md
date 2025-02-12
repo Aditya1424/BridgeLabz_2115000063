@@ -155,4 +155,12 @@ Calling Non-Static Methods:
 2. Assignment
  - Submitted assignment on Encapsulation, Abstraction, Polymorphism and Interface in Java.
 
+## Task 16: DAY-16
+1. LinkedList in java
+ - Studied the concept of LinkedList.
+ - Types of LinkedList: Singly LinkedList, Doubly LinkedList and Circular LinkedList.
+
+2. Assignment
+ - Submitted assignment on different types of LinkedList.
+
 
