@@ -163,4 +163,12 @@ Calling Non-Static Methods:
 2. Assignment
  - Submitted assignment on different types of LinkedList.
 
+## Task 17: DAY-17
+1. Stack and Queue Data Structures in java
+ - Studied the concept and implemenation of stack and queue.
+ - Types of Queue: Simple Queue and Circular Queue.
+
+2. Assignment
+ - Submitted assignment on Stack Queue and HashMap.
+
 
